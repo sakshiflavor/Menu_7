@@ -93,7 +93,7 @@
 <body>
 
   <div class="dropdown">
-    <button class="dropbtn">Go to Page ▾</button>
+    <button class="dropbtn">MENU ▾</button>
     <div class="dropdown-content">
       <a href="https://sakshiflavor.github.io/Menu_1/">Tea Coffee</a>
       <a href="https://sakshiflavor.github.io/Menu_5/">Pizza</a>
