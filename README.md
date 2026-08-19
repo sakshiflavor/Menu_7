@@ -3,7 +3,7 @@
   <link rel="stylesheet" href="styles/style.css"/>
   <title>Chaat Puchka SahakarNagar Menu </title>
 
-<body style="background-color: gray;">
+<body style="background-color: black;">
    <div style="text-align: center;">
   <a href="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png">
     <img src="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png" alt="Description" style="width: 300px;">
@@ -16,13 +16,13 @@
     Fries/Nuggets
     <br>
     <h3>
-<p style="word-spacing: 184px; text-align: Center;">French_Fries  ₹90</p>
-  <p style="word-spacing: 180px; text-align: Center;">Crinkle_Fries    ₹90</p>
-      <p style="word-spacing: 185px; text-align: Center;">Masala_Fries ₹95</p>   
-      <p style="word-spacing: 160px; text-align: Center;">peri_Peri_Fries ₹100</p>
-      <p style="word-spacing: 155px; text-align: Center;">Cheese_Nuggets ₹150</p>
-      <p style="word-spacing: 108px; text-align: Center;">Masala_Cheese_Fries ₹110</p>
-      <p style="word-spacing: 160px; text-align: Center;">Potato_Nuggets ₹120</p>
+<p style="word-spacing: 184px; text-align: Center; color: white;">French_Fries  ₹90</p>
+  <p style="word-spacing: 180px; text-align: Center; color: white;">Crinkle_Fries    ₹90</p>
+      <p style="word-spacing: 185px; text-align: Center; color: white;">Masala_Fries ₹95</p>   
+      <p style="word-spacing: 160px; text-align: Center; color: white;">peri_Peri_Fries ₹100</p>
+      <p style="word-spacing: 155px; text-align: Center; color: white;">Cheese_Nuggets ₹150</p>
+      <p style="word-spacing: 108px; text-align: Center; color: white;">Masala_Cheese_Fries ₹110</p>
+      <p style="word-spacing: 160px; text-align: Center; color: white;">Potato_Nuggets ₹120</p>
       
       <br>
       <h2 style="text-align: Center; color: white;">
@@ -30,13 +30,13 @@
     <br>
       </h2>
       <h3>
-      <p style="word-spacing: 220px; text-align: Center;">Vada_Pav ₹50</p>
-      <p style="word-spacing: 145px; text-align: Center;">Masala_Vada_Pav ₹70</p>
-      <p style="word-spacing: 132px; text-align: Center;">Mumbai_Vada_Pav  ₹90</p>
-       <p style="word-spacing: 207px; text-align: Center;">Pav_Bhaji  ₹120</p>
-       <p style="word-spacing: 136px; text-align: Center;">Cheese_Pav_Bhaji       ₹140</p>
-        <p style="word-spacing: 215px; text-align: Center;">Extra_Pav    ₹20</p>
-        <p style="word-spacing: 160px; text-align: Center;">Chole_Bhature     ₹150</p>
+  <p style="word-spacing: 220px; text-align: Center; color: white;">Vada_Pav ₹50</p>
+      <p style="word-spacing: 145px; text-align: Center; color: white;">Masala_Vada_Pav ₹70</p>
+      <p style="word-spacing: 132px; text-align: Center; color: white;">Mumbai_Vada_Pav  ₹90</p>
+       <p style="word-spacing: 207px; text-align: Center; color: white;">Pav_Bhaji  ₹120</p>
+       <p style="word-spacing: 136px; text-align: Center; color: white;">Cheese_Pav_Bhaji       ₹140</p>
+        <p style="word-spacing: 215px; text-align: Center; color: white;">Extra_Pav    ₹20</p>
+        <p style="word-spacing: 160px; text-align: Center; color: white;">Chole_Bhature     ₹150</p>
       
   </h3>
     <br>
